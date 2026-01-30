@@ -5,7 +5,7 @@ function combineStandards() {
   standard_1_4_2()
   standard_1_4_4()
   standard_2_1_1()
-  //standard_2_4_7()
+  standard_2_4_7()
   standard_3_1_1()
   standard_4_1_2()
 }
