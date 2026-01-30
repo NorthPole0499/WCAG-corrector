@@ -1,4 +1,4 @@
-export default function standard_1_4_2 () {
+window.standard_1_4_2 = function () {
     const mediaElements = document.querySelectorAll("audio, video");
 
     mediaElements.forEach(media => {

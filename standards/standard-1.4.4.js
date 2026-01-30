@@ -1,4 +1,4 @@
-export default function standard_1_4_4 () {
+window.standard_1_4_4 = function () {
     const style = document.createElement("style");
     style.textContent = `
         html {

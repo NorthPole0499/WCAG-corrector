@@ -1,4 +1,4 @@
-export default function standard_1_2_2 () {
+window.standard_1_2_2 = function () {
     document.querySelectorAll("video:not([controlslist])").forEach(e => {
     e.setAttribute("controls", "");
     const track = document.createElement("track");
